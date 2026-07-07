@@ -1,0 +1,7 @@
+name = "bed-assignment"
+version = "0.1.0"
+description = "Bed-assignment agent"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
