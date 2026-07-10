@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `bed-assignment_safe.os` — the correct design.
-- `bed-assignment_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `bed-assignment_safe.wave` — the correct design.
+- `bed-assignment_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
